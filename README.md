@@ -59,5 +59,5 @@ The app will be live at **[http://localhost:5173/](http://localhost:5173/)** (de
 
 ## 🔗 Live Demo
 
-Check out the live version: [https://portfolio-rajiv-kumar.vercel.app/](https://portfolio-rajiv-kumar.vercel.app/)
+Check out the live version: [https://afrin-s-portfolio.vercel.app/](https://afrin-s-portfolio.vercel.app/)
 
